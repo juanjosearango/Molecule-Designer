@@ -1,0 +1,6 @@
+NOTICE
+
+new_model [Molecule Designer].py, USER_CONFIGURED_database_coupling_coefficients.py, USER_CONFIGURED_database_propagation_parameters.py, and molecule_designer.py are part of the Molecule Designer software, licensed under the Apache License, Version 2.0. © 2021 Juan José Arango.
+
+pixel_selector.py is a redistributed and modified script, licensed under the Apache License, Version 2.0. © 2017 Sam Murphy. https://github.com/samsammurphy/pixel_selector
+The modifications introduced in the script by Juan José Arango are very slight and they are clearly signaled in the copy of the script provided.
